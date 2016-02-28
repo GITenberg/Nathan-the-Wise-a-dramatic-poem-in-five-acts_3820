@@ -1,0 +1,41 @@
+_repo: Nathan-the-Wise-a-dramatic-poem-in-five-acts_3820
+contributor:
+  creator:
+    editor:
+      agent_name: Morley, Henry
+      birthdate: 1822
+      deathdate: 1894
+      gutenberg_agent_id: '1355'
+      url: http://www.gutenberg.org/2009/agents/1355
+      wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+  translator:
+    agent_name: Taylor, W. (William)
+    alias: Taylor, William
+    birthdate: 1765
+    deathdate: 1836
+    gutenberg_agent_id: '1319'
+    url: http://www.gutenberg.org/2009/agents/1319
+    wikipedia: http://en.wikipedia.org/wiki/William_Taylor_%28man_of_letters%29
+creator:
+  author:
+    agent_name: Lessing, Gotthold Ephraim
+    alias: Lessing, G. E.
+    birthdate: 1729
+    deathdate: 1781
+    gutenberg_agent_id: '990'
+    url: http://www.gutenberg.org/2009/agents/990
+    wikipedia: http://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing
+description: ''
+gutenberg_issued: '2003-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3820'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German drama -- Translations into English'
+title: Nathan the Wise; a dramatic poem in five acts
+url: http://www.gutenberg.org/ebooks/3820
